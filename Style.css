@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(6, 110, 110);
+    color: antiquewhite;
+}
+
+h1 {
+    background-color: rgb(6, 57, 76);
+    box-shadow: 2px; outline-style: double;
+    color: white;
+    border-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+p {
+    padding: 20px;
+    margin: 0%;
+}
+
+P.one {
+    background-color: darkblue;
+}
+
+P.two {
+    background-color: rgb(33, 111, 212);
+}
+
+P.three {
+    background-color: rgb(75, 131, 209);
+}
+
+P.four {
+    background-color: rgb(138, 177, 223);
+}
+
+P.five {
+    background-color: rgb(60, 4, 24);
+}
+
+P.six {
+    background-color: rgb(159, 20, 85);
+}
+
+P.seven {
+    background-color: rgb(202, 12, 148);
+}
+
+P.eight {
+    background-color: rgb(248, 86, 194);
+}
+
+P.nine {
+    background-color: rgb(253, 165, 232);
+}
+
+P.ten {
+    background-color: rgb(255, 207, 245);
+}
+
+P.eleven {
+    background-color: rgb(223, 150, 14);
+}
+
+P.twelve {
+    background-color: rgb(246, 205, 159);
+}
